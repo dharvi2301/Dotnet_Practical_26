@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeedal\\data\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|solutionrelative:employeedal\\data\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED292C-D0E0-4AFE-B6D0-1AC3750A4526}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED292C-D0E0-4AFE-B6D0-1AC3750A4526}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED292C-D0E0-4AFE-B6D0-1AC3750A4526}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED292C-D0E0-4AFE-B6D0-1AC3750A4526}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED292C-D0E0-4AFE-B6D0-1AC3750A4526}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99ED292C-D0E0-4AFE-B6D0-1AC3750A4526}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeedal\\employeedal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|solutionrelative:employeedal\\employeedal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeedal\\dto\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|solutionrelative:employeedal\\dto\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeedal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|solutionrelative:employeedal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeedal\\repositories\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|solutionrelative:employeedal\\repositories\\commandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeedal\\repositories\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|solutionrelative:employeedal\\repositories\\icommandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeedal\\repositories\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|solutionrelative:employeedal\\repositories\\queryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|c:\\users\\dharvi.patel\\github\\dotnet_practical_26\\employeeapi\\employeedal\\repositories\\iqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5FE991-45B4-4C79-BC1D-AB91EB6EF5BB}|EmployeeDAL\\EmployeeDAL.csproj|solutionrelative:employeedal\\repositories\\iqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeAPI",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeAPI\\EmployeeAPI.csproj",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.csproj",
+              "RelativeToolTip": "EmployeeAPI\\EmployeeAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T03:16:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\DTO\\AddEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeDAL\\DTO\\AddEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\DTO\\AddEmployeeDTO.cs",
+              "RelativeToolTip": "EmployeeDAL\\DTO\\AddEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:16:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IQueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Repositories\\IQueryRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeDAL\\Repositories\\IQueryRepository.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Repositories\\IQueryRepository.cs",
+              "RelativeToolTip": "EmployeeDAL\\Repositories\\IQueryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:15:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Repositories\\QueryRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeDAL\\Repositories\\QueryRepository.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Repositories\\QueryRepository.cs",
+              "RelativeToolTip": "EmployeeDAL\\Repositories\\QueryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:14:07.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Repositories\\ICommandRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeDAL\\Repositories\\ICommandRepository.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Repositories\\ICommandRepository.cs",
+              "RelativeToolTip": "EmployeeDAL\\Repositories\\ICommandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:13:31.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Repositories\\CommandRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeDAL\\Repositories\\CommandRepository.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Repositories\\CommandRepository.cs",
+              "RelativeToolTip": "EmployeeDAL\\Repositories\\CommandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:12:56.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeDAL\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeDAL\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:11:54.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Data\\DbService.cs",
+              "RelativeDocumentMoniker": "EmployeeDAL\\Data\\DbService.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\Data\\DbService.cs",
+              "RelativeToolTip": "EmployeeDAL\\Data\\DbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:10:00.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDAL",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\EmployeeDAL.csproj",
+              "RelativeDocumentMoniker": "EmployeeDAL\\EmployeeDAL.csproj",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeDAL\\EmployeeDAL.csproj",
+              "RelativeToolTip": "EmployeeDAL\\EmployeeDAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T03:08:47.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:07:49.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\dharvi.patel\\GitHub\\Dotnet_Practical_26\\EmployeeAPI\\EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:07:04.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
